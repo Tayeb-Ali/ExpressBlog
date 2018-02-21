@@ -40,4 +40,8 @@ app.get("/posts/:slug", function(request, response) {
 })
 
 
+app.get("/signup", function(request, response) {
+    response.render("signup");
+})
+
 app.listen(3000);

@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "ExpressBlog",
   "version": "1.0.0",
   "description": "blog by Express in NodeJs and MySql DB  by ELtayeb Hassan",
   "main": "index.js",
