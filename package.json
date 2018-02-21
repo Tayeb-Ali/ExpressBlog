@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog by Express in NodeJs and MySql DB  by ELtayeb Hassan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayeb-Ali/ExpressBlog.git"
+  },
+  "keywords": [
+    "blog",
+    "api",
+    "mysql",
+    "node",
+    "detaElectG",
+    "expressjs"
+  ],
+  "author": "Eltayeb Hassan",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Tayeb-Ali/ExpressBlog/issues"
+  },
+  "homepage": "https://github.com/Tayeb-Ali/ExpressBlog#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0"
+  }
+}
