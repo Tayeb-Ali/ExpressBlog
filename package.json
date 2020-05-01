@@ -27,7 +27,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "jade": "^1.11.0",
-    "moment": "^2.20.1",
+    "moment": "^2.25.0",
     "mysql": "^2.15.0"
   }
 }
